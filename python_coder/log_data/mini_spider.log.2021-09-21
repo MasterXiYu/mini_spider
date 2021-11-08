@@ -1,0 +1,196 @@
+INFO:09-21 19:36:24:run_main.py:23 * 79488  * miniSpider is starting ...      
+INFO:09-21 19:36:24:mini_spider.py:139 * 79488 第0个线程开始工作
+INFO:09-21 19:36:24:mini_spider.py:139 * 79488 第1个线程开始工作
+INFO:09-21 19:36:24:mini_spider.py:139 * 79488 第2个线程开始工作
+INFO:09-21 19:36:24:mini_spider.py:139 * 79488 第3个线程开始工作
+INFO:09-21 19:36:24:mini_spider.py:139 * 79488 第4个线程开始工作
+INFO:09-21 19:36:24:mini_spider.py:139 * 79488 第5个线程开始工作
+INFO:09-21 19:36:24:mini_spider.py:139 * 79488 第6个线程开始工作
+INFO:09-21 19:36:24:mini_spider.py:139 * 79488 第7个线程开始工作
+INFO:09-21 19:36:24:run_main.py:50 * 79488  * miniSpider is end ...           
+INFO:09-21 19:51:11:run_main.py:23 * 114280  * miniSpider is starting ...      
+INFO:09-21 19:55:18:mini_spider.py:139 * 114280 第0个线程开始工作
+INFO:09-21 19:57:54:run_main.py:23 * 116528  * miniSpider is starting ...      
+INFO:09-21 19:57:54:mini_spider.py:139 * 116528 第0个线程开始工作
+INFO:09-21 19:57:54:mini_spider.py:139 * 116528 第1个线程开始工作
+INFO:09-21 19:57:54:mini_spider.py:139 * 116528 第2个线程开始工作
+INFO:09-21 19:57:54:mini_spider.py:139 * 116528 第3个线程开始工作
+INFO:09-21 19:57:54:mini_spider.py:139 * 116528 第4个线程开始工作
+INFO:09-21 19:57:54:mini_spider.py:139 * 116528 第5个线程开始工作
+INFO:09-21 19:57:54:mini_spider.py:139 * 116528 第6个线程开始工作
+INFO:09-21 19:57:54:mini_spider.py:139 * 116528 第7个线程开始工作
+INFO:09-21 19:57:54:run_main.py:50 * 116528  * miniSpider is end ...           
+INFO:09-21 19:58:11:run_main.py:23 * 116364  * miniSpider is starting ...      
+INFO:09-21 19:58:11:mini_spider.py:139 * 116364 第0个线程开始工作
+INFO:09-21 19:58:11:mini_spider.py:139 * 116364 第1个线程开始工作
+INFO:09-21 19:58:11:mini_spider.py:139 * 116364 第2个线程开始工作
+INFO:09-21 19:58:11:mini_spider.py:139 * 116364 第3个线程开始工作
+INFO:09-21 19:58:11:mini_spider.py:139 * 116364 第4个线程开始工作
+INFO:09-21 19:58:11:mini_spider.py:139 * 116364 第5个线程开始工作
+INFO:09-21 19:58:11:mini_spider.py:139 * 116364 第6个线程开始工作
+INFO:09-21 19:58:11:mini_spider.py:139 * 116364 第7个线程开始工作
+INFO:09-21 19:58:11:run_main.py:50 * 116364  * miniSpider is end ...           
+INFO:09-21 19:58:30:run_main.py:23 * 116664  * miniSpider is starting ...      
+INFO:09-21 19:58:30:mini_spider.py:139 * 116664 第0个线程开始工作
+INFO:09-21 19:58:30:mini_spider.py:139 * 116664 第1个线程开始工作
+INFO:09-21 19:58:30:mini_spider.py:139 * 116664 第2个线程开始工作
+INFO:09-21 19:58:30:mini_spider.py:139 * 116664 第3个线程开始工作
+INFO:09-21 19:58:30:mini_spider.py:139 * 116664 第4个线程开始工作
+INFO:09-21 19:58:30:mini_spider.py:139 * 116664 第5个线程开始工作
+INFO:09-21 19:58:30:mini_spider.py:139 * 116664 第6个线程开始工作
+INFO:09-21 19:58:31:mini_spider.py:139 * 116664 第7个线程开始工作
+INFO:09-21 19:58:31:run_main.py:50 * 116664  * miniSpider is end ...           
+INFO:09-21 19:58:36:run_main.py:23 * 116212  * miniSpider is starting ...      
+INFO:09-21 19:58:36:mini_spider.py:139 * 116212 第0个线程开始工作
+INFO:09-21 19:58:36:mini_spider.py:139 * 116212 第1个线程开始工作
+INFO:09-21 19:58:36:mini_spider.py:139 * 116212 第2个线程开始工作
+INFO:09-21 19:58:36:mini_spider.py:139 * 116212 第3个线程开始工作
+INFO:09-21 19:58:36:mini_spider.py:139 * 116212 第4个线程开始工作
+INFO:09-21 19:58:36:mini_spider.py:139 * 116212 第5个线程开始工作
+INFO:09-21 19:58:36:mini_spider.py:139 * 116212 第6个线程开始工作
+INFO:09-21 19:58:36:mini_spider.py:139 * 116212 第7个线程开始工作
+INFO:09-21 19:58:36:run_main.py:50 * 116212  * miniSpider is end ...           
+INFO:09-21 20:19:39:run_main.py:23 * 113864  * miniSpider is starting ...      
+INFO:09-21 20:19:39:mini_spider.py:139 * 113864 第0个线程开始工作
+INFO:09-21 20:19:39:mini_spider.py:139 * 113864 第1个线程开始工作
+INFO:09-21 20:19:39:mini_spider.py:139 * 113864 第2个线程开始工作
+INFO:09-21 20:19:39:mini_spider.py:139 * 113864 第3个线程开始工作
+INFO:09-21 20:19:39:mini_spider.py:139 * 113864 第4个线程开始工作
+INFO:09-21 20:19:39:mini_spider.py:139 * 113864 第5个线程开始工作
+INFO:09-21 20:19:39:mini_spider.py:139 * 113864 第6个线程开始工作
+INFO:09-21 20:19:39:mini_spider.py:139 * 113864 第7个线程开始工作
+INFO:09-21 20:19:39:run_main.py:50 * 113864  * miniSpider is end ...           
+INFO:09-21 20:20:42:run_main.py:23 * 118556  * miniSpider is starting ...      
+INFO:09-21 20:20:42:mini_spider.py:139 * 118556 第0个线程开始工作
+INFO:09-21 20:20:42:mini_spider.py:139 * 118556 第1个线程开始工作
+INFO:09-21 20:20:42:mini_spider.py:139 * 118556 第2个线程开始工作
+INFO:09-21 20:20:42:mini_spider.py:139 * 118556 第3个线程开始工作
+INFO:09-21 20:20:42:mini_spider.py:139 * 118556 第4个线程开始工作
+INFO:09-21 20:20:42:mini_spider.py:139 * 118556 第5个线程开始工作
+INFO:09-21 20:20:42:mini_spider.py:139 * 118556 第6个线程开始工作
+INFO:09-21 20:20:42:mini_spider.py:139 * 118556 第7个线程开始工作
+INFO:09-21 20:20:42:run_main.py:50 * 118556  * miniSpider is end ...           
+INFO:09-21 20:21:02:run_main.py:23 * 106836  * miniSpider is starting ...      
+INFO:09-21 20:21:02:mini_spider.py:139 * 106836 第0个线程开始工作
+INFO:09-21 20:21:02:mini_spider.py:139 * 106836 第1个线程开始工作
+INFO:09-21 20:21:02:mini_spider.py:139 * 106836 第2个线程开始工作
+INFO:09-21 20:21:02:mini_spider.py:139 * 106836 第3个线程开始工作
+INFO:09-21 20:21:02:mini_spider.py:139 * 106836 第4个线程开始工作
+INFO:09-21 20:21:02:mini_spider.py:139 * 106836 第5个线程开始工作
+INFO:09-21 20:21:02:mini_spider.py:139 * 106836 第6个线程开始工作
+INFO:09-21 20:21:02:mini_spider.py:139 * 106836 第7个线程开始工作
+INFO:09-21 20:21:02:run_main.py:50 * 106836  * miniSpider is end ...           
+INFO:09-21 20:21:12:run_main.py:23 * 114124  * miniSpider is starting ...      
+INFO:09-21 20:21:12:mini_spider.py:139 * 114124 第0个线程开始工作
+INFO:09-21 20:21:12:mini_spider.py:139 * 114124 第1个线程开始工作
+INFO:09-21 20:21:12:mini_spider.py:139 * 114124 第2个线程开始工作
+INFO:09-21 20:21:12:mini_spider.py:139 * 114124 第3个线程开始工作
+INFO:09-21 20:21:12:mini_spider.py:139 * 114124 第4个线程开始工作
+INFO:09-21 20:21:12:mini_spider.py:139 * 114124 第5个线程开始工作
+INFO:09-21 20:21:12:mini_spider.py:139 * 114124 第6个线程开始工作
+INFO:09-21 20:21:12:mini_spider.py:139 * 114124 第7个线程开始工作
+INFO:09-21 20:21:12:run_main.py:50 * 114124  * miniSpider is end ...           
+INFO:09-21 20:21:34:run_main.py:23 * 116348  * miniSpider is starting ...      
+INFO:09-21 20:21:34:mini_spider.py:139 * 116348 第0个线程开始工作
+INFO:09-21 20:21:34:mini_spider.py:139 * 116348 第1个线程开始工作
+INFO:09-21 20:21:34:mini_spider.py:139 * 116348 第2个线程开始工作
+INFO:09-21 20:21:34:mini_spider.py:139 * 116348 第3个线程开始工作
+INFO:09-21 20:21:34:mini_spider.py:139 * 116348 第4个线程开始工作
+INFO:09-21 20:21:34:mini_spider.py:139 * 116348 第5个线程开始工作
+INFO:09-21 20:21:34:mini_spider.py:139 * 116348 第6个线程开始工作
+INFO:09-21 20:21:34:mini_spider.py:139 * 116348 第7个线程开始工作
+INFO:09-21 20:21:34:run_main.py:50 * 116348  * miniSpider is end ...           
+INFO:09-21 20:21:56:run_main.py:23 * 112768  * miniSpider is starting ...      
+INFO:09-21 20:23:32:run_main.py:23 * 94156  * miniSpider is starting ...      
+INFO:09-21 20:25:04:run_main.py:23 * 117668  * miniSpider is starting ...      
+INFO:09-21 20:25:04:mini_spider.py:139 * 117668 第0个线程开始工作
+INFO:09-21 20:25:04:mini_spider.py:139 * 117668 第1个线程开始工作
+INFO:09-21 20:25:04:mini_spider.py:139 * 117668 第2个线程开始工作
+INFO:09-21 20:25:04:mini_spider.py:139 * 117668 第3个线程开始工作
+INFO:09-21 20:25:04:mini_spider.py:139 * 117668 第4个线程开始工作
+INFO:09-21 20:25:04:mini_spider.py:139 * 117668 第5个线程开始工作
+INFO:09-21 20:25:04:mini_spider.py:139 * 117668 第6个线程开始工作
+INFO:09-21 20:25:04:mini_spider.py:139 * 117668 第7个线程开始工作
+INFO:09-21 20:25:04:run_main.py:50 * 117668  * miniSpider is end ...           
+INFO:09-21 20:25:09:run_main.py:23 * 118572  * miniSpider is starting ...      
+INFO:09-21 20:25:28:mini_spider.py:139 * 118572 第0个线程开始工作
+INFO:09-21 20:29:13:run_main.py:23 * 114088  * miniSpider is starting ...      
+INFO:09-21 20:30:28:run_main.py:23 * 112768  * miniSpider is starting ...      
+INFO:09-21 20:30:28:mini_spider.py:139 * 112768 第0个线程开始工作
+INFO:09-21 20:30:28:mini_spider.py:139 * 112768 第1个线程开始工作
+INFO:09-21 20:30:28:mini_spider.py:139 * 112768 第2个线程开始工作
+INFO:09-21 20:30:28:mini_spider.py:139 * 112768 第3个线程开始工作
+INFO:09-21 20:30:28:mini_spider.py:139 * 112768 第4个线程开始工作
+INFO:09-21 20:30:28:mini_spider.py:139 * 112768 第5个线程开始工作
+INFO:09-21 20:30:28:mini_spider.py:139 * 112768 第6个线程开始工作
+INFO:09-21 20:30:28:mini_spider.py:139 * 112768 第7个线程开始工作
+INFO:09-21 20:30:28:run_main.py:50 * 112768  * miniSpider is end ...           
+INFO:09-21 20:30:50:run_main.py:23 * 117884  * miniSpider is starting ...      
+INFO:09-21 20:30:50:mini_spider.py:139 * 117884 第0个线程开始工作
+INFO:09-21 20:30:50:mini_spider.py:139 * 117884 第1个线程开始工作
+INFO:09-21 20:30:50:mini_spider.py:139 * 117884 第2个线程开始工作
+INFO:09-21 20:30:50:mini_spider.py:139 * 117884 第3个线程开始工作
+INFO:09-21 20:30:50:mini_spider.py:139 * 117884 第4个线程开始工作
+INFO:09-21 20:30:50:mini_spider.py:139 * 117884 第5个线程开始工作
+INFO:09-21 20:30:50:mini_spider.py:139 * 117884 第6个线程开始工作
+INFO:09-21 20:30:50:mini_spider.py:139 * 117884 第7个线程开始工作
+INFO:09-21 20:30:50:run_main.py:50 * 117884  * miniSpider is end ...           
+INFO:09-21 20:31:02:run_main.py:23 * 119208  * miniSpider is starting ...      
+INFO:09-21 20:31:02:mini_spider.py:139 * 119208 第0个线程开始工作
+INFO:09-21 20:31:02:mini_spider.py:139 * 119208 第1个线程开始工作
+INFO:09-21 20:31:02:mini_spider.py:139 * 119208 第2个线程开始工作
+INFO:09-21 20:31:02:mini_spider.py:139 * 119208 第3个线程开始工作
+INFO:09-21 20:31:02:mini_spider.py:139 * 119208 第4个线程开始工作
+INFO:09-21 20:31:02:mini_spider.py:139 * 119208 第5个线程开始工作
+INFO:09-21 20:31:02:mini_spider.py:139 * 119208 第6个线程开始工作
+INFO:09-21 20:31:02:mini_spider.py:139 * 119208 第7个线程开始工作
+INFO:09-21 20:31:02:run_main.py:50 * 119208  * miniSpider is end ...           
+INFO:09-21 20:32:04:run_main.py:23 * 115900  * miniSpider is starting ...      
+INFO:09-21 20:32:49:run_main.py:23 * 118644  * miniSpider is starting ...      
+INFO:09-21 20:33:08:run_main.py:23 * 119388  * miniSpider is starting ...      
+INFO:09-21 20:33:15:run_main.py:23 * 115800  * miniSpider is starting ...      
+INFO:09-21 20:33:15:mini_spider.py:139 * 115800 第0个线程开始工作
+INFO:09-21 20:33:15:mini_spider.py:139 * 115800 第1个线程开始工作
+INFO:09-21 20:33:15:mini_spider.py:139 * 115800 第2个线程开始工作
+INFO:09-21 20:33:15:mini_spider.py:139 * 115800 第3个线程开始工作
+INFO:09-21 20:33:15:mini_spider.py:139 * 115800 第4个线程开始工作
+INFO:09-21 20:33:15:mini_spider.py:139 * 115800 第5个线程开始工作
+INFO:09-21 20:33:15:mini_spider.py:139 * 115800 第6个线程开始工作
+INFO:09-21 20:33:15:mini_spider.py:139 * 115800 第7个线程开始工作
+INFO:09-21 20:33:15:run_main.py:50 * 115800  * miniSpider is end ...           
+INFO:09-21 20:33:40:run_main.py:23 * 109440  * miniSpider is starting ...      
+INFO:09-21 20:33:40:mini_spider.py:139 * 109440 第0个线程开始工作
+INFO:09-21 20:33:40:mini_spider.py:139 * 109440 第1个线程开始工作
+INFO:09-21 20:33:40:mini_spider.py:139 * 109440 第2个线程开始工作
+INFO:09-21 20:33:40:mini_spider.py:139 * 109440 第3个线程开始工作
+INFO:09-21 20:33:40:mini_spider.py:139 * 109440 第4个线程开始工作
+INFO:09-21 20:33:40:mini_spider.py:139 * 109440 第5个线程开始工作
+INFO:09-21 20:33:40:mini_spider.py:139 * 109440 第6个线程开始工作
+INFO:09-21 20:33:40:mini_spider.py:139 * 109440 第7个线程开始工作
+INFO:09-21 20:33:40:run_main.py:50 * 109440  * miniSpider is end ...           
+INFO:09-21 20:33:55:run_main.py:23 * 114624  * miniSpider is starting ...      
+INFO:09-21 20:37:17:run_main.py:23 * 118876  * miniSpider is starting ...      
+INFO:09-21 20:39:30:run_main.py:23 * 120412  * miniSpider is starting ...      
+INFO:09-21 20:39:30:mini_spider.py:139 * 120412 第0个线程开始工作
+INFO:09-21 20:39:30:mini_spider.py:139 * 120412 第1个线程开始工作
+INFO:09-21 20:39:30:mini_spider.py:139 * 120412 第2个线程开始工作
+INFO:09-21 20:39:30:mini_spider.py:139 * 120412 第3个线程开始工作
+INFO:09-21 20:39:30:mini_spider.py:139 * 120412 第4个线程开始工作
+INFO:09-21 20:39:30:mini_spider.py:139 * 120412 第5个线程开始工作
+INFO:09-21 20:39:30:mini_spider.py:139 * 120412 第6个线程开始工作
+INFO:09-21 20:39:30:mini_spider.py:139 * 120412 第7个线程开始工作
+INFO:09-21 20:39:30:run_main.py:50 * 120412  * miniSpider is end ...           
+INFO:09-21 20:39:39:run_main.py:23 * 118756  * miniSpider is starting ...      
+INFO:09-21 20:42:50:run_main.py:23 * 111772  * miniSpider is starting ...      
+INFO:09-21 20:42:50:mini_spider.py:139 * 111772 第0个线程开始工作
+INFO:09-21 20:42:50:mini_spider.py:139 * 111772 第1个线程开始工作
+INFO:09-21 20:42:50:mini_spider.py:139 * 111772 第2个线程开始工作
+INFO:09-21 20:42:50:mini_spider.py:139 * 111772 第3个线程开始工作
+INFO:09-21 20:42:50:mini_spider.py:139 * 111772 第4个线程开始工作
+INFO:09-21 20:42:50:mini_spider.py:139 * 111772 第5个线程开始工作
+INFO:09-21 20:42:50:mini_spider.py:139 * 111772 第6个线程开始工作
+INFO:09-21 20:42:50:mini_spider.py:139 * 111772 第7个线程开始工作
+INFO:09-21 20:42:50:run_main.py:50 * 111772  * miniSpider is end ...           
+INFO:09-21 20:43:00:run_main.py:23 * 116808  * miniSpider is starting ...      
+INFO:09-21 20:43:42:run_main.py:23 * 121832  * miniSpider is starting ...      
+INFO:09-21 20:44:26:run_main.py:23 * 121160  * miniSpider is starting ...      

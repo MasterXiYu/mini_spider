@@ -1,0 +1,74 @@
+WARNING:11-08 22:26:00:downloader.py:33 * 83572  * Try for 1th times
+WARNING:11-08 22:26:01:downloader.py:33 * 83572  * Try for 2th times
+WARNING:11-08 22:26:02:downloader.py:31 * 83572 * Downloading failed : https://baobao.baidu.com - HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+WARNING:11-08 22:26:02:downloader.py:33 * 83572  * Try for 3th times
+WARNING:11-08 22:31:22:downloader.py:33 * 82504  * Try for 1th times
+WARNING:11-08 22:31:25:downloader.py:33 * 82504  * Try for 2th times
+WARNING:11-08 22:31:28:downloader.py:31 * 82504 * Downloading failed : https://app.mokahr.com/apply/hupu/7558 - HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+WARNING:11-08 22:31:28:downloader.py:33 * 82504  * Try for 3th times
+WARNING:11-08 22:31:49:downloader.py:33 * 84400  * Try for 1th times
+WARNING:11-08 22:31:50:downloader.py:33 * 79888  * Try for 1th times
+WARNING:11-08 22:31:53:downloader.py:33 * 72568  * Try for 1th times
+WARNING:11-08 22:31:55:downloader.py:33 * 74816  * Try for 1th times
+WARNING:11-08 22:31:56:downloader.py:33 * 72568  * Try for 2th times
+WARNING:11-08 22:31:58:downloader.py:33 * 79220  * Try for 1th times
+WARNING:11-08 22:32:01:downloader.py:33 * 74816  * Try for 1th times
+WARNING:11-08 22:32:08:downloader.py:33 * 83096  * Try for 1th times
+WARNING:11-08 22:32:14:downloader.py:33 * 79888  * Try for 1th times
+WARNING:11-08 22:32:34:downloader.py:33 * 84716  * Try for 1th times
+WARNING:11-08 22:32:35:downloader.py:33 * 82800  * Try for 1th times
+WARNING:11-08 22:32:36:downloader.py:33 * 84716  * Try for 2th times
+WARNING:11-08 22:32:40:downloader.py:31 * 84716 * Downloading failed : https://app.mokahr.com/apply/hupu/7558 - HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+WARNING:11-08 22:32:40:downloader.py:33 * 84716  * Try for 3th times
+WARNING:11-08 22:32:54:downloader.py:33 * 77544  * Try for 1th times
+WARNING:11-08 22:32:55:downloader.py:33 * 77544  * Try for 2th times
+WARNING:11-08 22:33:08:downloader.py:33 * 84744  * Try for 1th times
+WARNING:11-08 22:33:11:downloader.py:33 * 84744  * Try for 2th times
+WARNING:11-08 22:33:11:downloader.py:33 * 69708  * Try for 1th times
+WARNING:11-08 22:33:14:downloader.py:31 * 84744 * Downloading failed : https://app.mokahr.com/apply/hupu/7558 - HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+WARNING:11-08 22:33:14:downloader.py:33 * 84744  * Try for 3th times
+WARNING:11-08 22:33:15:downloader.py:33 * 69708  * Try for 1th times
+WARNING:11-08 22:33:22:downloader.py:33 * 84156  * Try for 1th times
+WARNING:11-08 22:33:23:downloader.py:33 * 84156  * Try for 2th times
+WARNING:11-08 22:33:23:downloader.py:31 * 84156 * Downloading failed : https://baobao.baidu.com - HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+WARNING:11-08 22:33:23:downloader.py:33 * 84156  * Try for 3th times
+WARNING:11-08 22:37:14:downloader.py:33 * 69660  * Try for 1th times
+WARNING:11-08 22:37:17:downloader.py:33 * 69660  * Try for 2th times
+WARNING:11-08 22:37:22:downloader.py:31 * 69660 * Downloading failed : https://app.mokahr.com/apply/hupu/7558 - HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+WARNING:11-08 22:37:22:downloader.py:33 * 69660  * Try for 3th times
+WARNING:11-08 22:37:29:downloader.py:33 * 79104  * Try for 1th times
+WARNING:11-08 22:37:52:downloader.py:33 * 69924  * Try for 1th times
+WARNING:11-08 22:37:53:downloader.py:33 * 79888  * Try for 1th times
+WARNING:11-08 22:38:08:downloader.py:33 * 69924  * Try for 1th times
+WARNING:11-08 22:38:17:downloader.py:33 * 79888  * Try for 1th times
+WARNING:11-08 22:38:19:downloader.py:33 * 79104  * Try for 1th times
+WARNING:11-08 22:38:23:downloader.py:33 * 76204  * Try for 1th times
+WARNING:11-08 22:38:44:downloader.py:33 * 82836  * Try for 1th times
+WARNING:11-08 22:39:17:downloader.py:33 * 69924  * Try for 1th times
+WARNING:11-08 22:39:17:downloader.py:33 * 82136  * Try for 1th times
+WARNING:11-08 22:39:17:downloader.py:33 * 82836  * Try for 1th times
+WARNING:11-08 22:39:19:downloader.py:33 * 31068  * Try for 1th times
+WARNING:11-08 22:39:23:downloader.py:33 * 31068  * Try for 2th times
+WARNING:11-08 22:39:26:downloader.py:31 * 31068 * Downloading failed : https://bbs.hupu.com/ent - The read operation timed out
+WARNING:11-08 22:39:26:downloader.py:33 * 31068  * Try for 3th times
+WARNING:11-08 22:39:29:downloader.py:33 * 82836  * Try for 1th times
+WARNING:11-08 22:39:34:downloader.py:33 * 82836  * Try for 1th times
+WARNING:11-08 22:39:34:downloader.py:33 * 82836  * Try for 2th times
+WARNING:11-08 22:39:34:downloader.py:31 * 82836 * Downloading failed : https://beian.miit.gov.cn - HTTP Error 521: 
+WARNING:11-08 22:39:34:downloader.py:33 * 82836  * Try for 3th times
+WARNING:11-08 22:39:36:downloader.py:33 * 82136  * Try for 1th times
+WARNING:11-08 22:39:38:downloader.py:33 * 82136  * Try for 2th times
+WARNING:11-08 22:39:40:downloader.py:31 * 82136 * Downloading failed : http://www.zx110.org - <urlopen error timed out>
+WARNING:11-08 22:39:40:downloader.py:33 * 82136  * Try for 3th times

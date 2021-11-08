@@ -1,0 +1,24 @@
+命令行设置完成，开始执行！
+spider.conf
+['spider.conf']
+./urls
+http://image.baidu.com
+
+http://www.hupu.com
+* MiniSpider Configurations list as follows:
+* url_list_file   :  ./urls
+* output_directory:  ./output
+* max_depth       :  2
+* crawl_interval  :  0.3
+* crawl_timeout   :  2.0
+* target_url      :  .*.(gif|png|jpg|bmp)$
+* thread_count    :  8
+第0个线程开始工作
+第1个线程开始工作
+第2个线程开始工作
+第3个线程开始工作
+第4个线程开始工作
+第5个线程开始工作
+第6个线程开始工作
+第7个线程开始工作
+完成搜索

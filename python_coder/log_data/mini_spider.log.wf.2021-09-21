@@ -1,0 +1,15 @@
+ERROR:09-20 20:49:36:run_main.py:22 * 61268  This is Error                     
+ERROR:09-21 11:04:29:config_spider.py:42 * 79000  * Config-file error: there is no args
+ERROR:09-21 11:05:49:config_spider.py:42 * 79032  * Config-file error: there is no args
+ERROR:09-21 11:07:33:config_spider.py:42 * 77884  * Config-file error: there is no args
+ERROR:09-21 11:09:03:config_spider.py:42 * 79032  * Config-file error: there is no args
+ERROR:09-21 11:09:23:config_spider.py:43 * 78668  * Config-file error: there is no args
+ERROR:09-21 11:10:30:config_spider.py:39 * 77216  * Config-file error: 'gbk' codec can't decode byte 0xae in position 30: illegal multibyte sequence
+ERROR:09-21 12:07:50:mini_spider.py:91 * 85508  * start_url file is not existing!
+ERROR:09-21 12:08:00:mini_spider.py:91 * 85276  * start_url file is not existing!
+ERROR:09-21 12:08:10:mini_spider.py:91 * 82716  * start_url file is not existing!
+ERROR:09-21 12:09:09:mini_spider.py:91 * 83012  * start_url file is not existing!
+ERROR:09-21 12:09:34:mini_spider.py:91 * 85156  * start_url file is not existing!
+ERROR:09-21 12:11:04:mini_spider.py:90 * 60432  * start_url file is not existing!
+ERROR:09-21 12:12:01:mini_spider.py:91 * 83168  * start_url file is not existing!
+ERROR:09-21 13:29:42:mini_spider.py:91 * 89372  * start_url file is not existing!
