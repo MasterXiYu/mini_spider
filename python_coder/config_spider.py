@@ -31,6 +31,7 @@ class ConfigArgs():
 		try:
 			#print(self.file_path)
 			conf_res = config.read(self.file_path)
+
 		except configparser.MissingSectionHeaderError as e:
 			logging.error(' * Config-file error: %s' % e)#若conf文件格式错误则报错
 			return False
